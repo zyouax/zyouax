@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://github.com/zyouax/zyouax/blob/main/gifs/tenor.gif"  />
+<img align="right" height="150" src="https://github.com/zyouax/zyouax/blob/main/gifs/tenor2.gif"  />
 
 ###
 
